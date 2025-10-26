@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Encrypt, Sort and Print
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Pascal Triangle", "02. Pascal Triangle\02. Pascal Triangle.csproj", "{0E52BC88-A052-4866-A63C-23462059E587}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Recursive Fibonacci", "03. Recursive Fibonacci\03. Recursive Fibonacci.csproj", "{1170D490-EACE-4856-8A08-E9BB222EF4BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0E52BC88-A052-4866-A63C-23462059E587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E52BC88-A052-4866-A63C-23462059E587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E52BC88-A052-4866-A63C-23462059E587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1170D490-EACE-4856-8A08-E9BB222EF4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1170D490-EACE-4856-8A08-E9BB222EF4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1170D490-EACE-4856-8A08-E9BB222EF4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1170D490-EACE-4856-8A08-E9BB222EF4BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
